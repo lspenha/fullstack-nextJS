@@ -1,3 +1,3 @@
-# Arquitetura base de Componentes Front End - [#01 NextJS FullStack]
+# Arquitetura base de Componentes Front End - [NextJS FullStack]
 
 ...
